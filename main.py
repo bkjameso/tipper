@@ -27,7 +27,7 @@ def tipper():
 
 
 
-    print("___THANK YOU FOR USING TIPPER")
+    print("___THANK YOU FOR USING TIPPER___")
 
 tipper()
 
