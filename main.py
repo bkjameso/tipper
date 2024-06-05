@@ -1,6 +1,6 @@
 def tipper():
     #This does the math for the tip
-    print("_____WELCOME TO TIPPER____")
+    print("_____WELCOME TO TIPPER_____")
 
     amount_paid = float(input("how much did you pay?"))
     great = amount_paid * 0.3
